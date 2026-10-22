@@ -37,6 +37,7 @@ The outcome will be a documented, reproducible home-lab project that demonstrate
 
 The project will also serve as a practical reference for anyone interested in learning about Windows, Ubuntu and operating-system administration.
 
-<img width="589" height="502" alt="image" src="https://github.com/user-attachments/assets/4b8f144e-e38d-4287-8e94-f39ce2803ab4" />
+<img width="1217" height="619" alt="image" src="https://github.com/user-attachments/assets/77d63991-c3ae-4dc4-8ab5-bf46f655ee52" />
+
 
 
